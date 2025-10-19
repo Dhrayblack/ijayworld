@@ -32,4 +32,4 @@ IjayWorld is a Flutter app designed for building social and community-driven pla
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ijayworld.git
+https://github.com/yourusername/ijayworld.git
