@@ -38,12 +38,12 @@ class BagPage extends StatelessWidget {
                 child: const Row(
                   mainAxisSize: MainAxisSize.min,
                   children: [
-                    Icon(Icons.search, color: Colors.teal),
+                    Icon(Icons.search, color: Colors.blue),
                     SizedBox(width: 8),
                     Text(
                       'Start Shopping',
                       style: TextStyle(
-                        color: Colors.teal,
+                        color: Colors.blue,
                         fontWeight: FontWeight.bold,
                         fontSize: 16,
                       ),
