@@ -31,7 +31,7 @@ class BagPage extends StatelessWidget {
               child: Container(
                 padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 14),
                 decoration: BoxDecoration(
-                  border: Border.all(color: Colors.teal),
+                  border: Border.all(color: Colors.blue),
                   borderRadius: BorderRadius.circular(30),
                   color: Colors.white,
                 ),
