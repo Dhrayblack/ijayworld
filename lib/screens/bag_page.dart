@@ -25,7 +25,7 @@ class BagPage extends StatelessWidget {
               textAlign: TextAlign.center,
               style: TextStyle(fontSize: 16, color: Colors.black54),
             ),
-            const SizedBox(height: 30),
+            const SizedBox(height: 20),
             GestureDetector(
               onTap: onStartShopping,
               child: Container(
