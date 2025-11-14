@@ -72,7 +72,7 @@ class _SplashScreenState extends State<SplashScreen>
             const SizedBox(height: 50),
             const CircularProgressIndicator(
               color: Colors.blue,
-              strokeWidth: 3,
+              strokeWidth: 4,
             ),
           ],
         ),

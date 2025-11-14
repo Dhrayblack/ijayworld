@@ -128,7 +128,7 @@ class _HomePageState extends State<HomePage> {
           padding: EdgeInsets.zero,
           children: [
             const DrawerHeader(
-              decoration: BoxDecoration(color: Colors.teal),
+              decoration: BoxDecoration(color: Colors.blue),
               child: Text(
                 'Menu',
                 style: TextStyle(color: Colors.white, fontSize: 24),
@@ -156,8 +156,8 @@ class _HomePageState extends State<HomePage> {
             ),
             const Divider(),
             ListTile(
-              leading: const Icon(Icons.logout, color: Colors.red),
-              title: const Text('Logout', style: TextStyle(color: Colors.red)),
+              leading: const Icon(Icons.logout, color: Colors.blue),
+              title: const Text('Logout', style: TextStyle(color: Colors.blue)),
               onTap: () {
                 Navigator.pushAndRemoveUntil(
                   context,
@@ -175,7 +175,7 @@ class _HomePageState extends State<HomePage> {
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: _selectedIndex,
         onTap: _onItemTapped,
-        selectedItemColor: Colors.teal,
+        selectedItemColor: Colors.blue,
         unselectedItemColor: Colors.black45,
         type: BottomNavigationBarType.fixed,
         showUnselectedLabels: false,

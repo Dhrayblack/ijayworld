@@ -42,7 +42,7 @@ class CategoryPage extends StatelessWidget {
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    Icon(service['icon'], size: 40, color: Colors.teal),
+                    Icon(service['icon'], size: 40, color: Colors.blue),
                     const SizedBox(height: 10),
                     Text(
                       service['name'],
