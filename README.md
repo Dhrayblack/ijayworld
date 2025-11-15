@@ -17,6 +17,7 @@ ___
 🔹 Ready for backend integration (login/auth, API calls)
 
 🔹 Works on both Android and iOS devices
+
 ---
 
 ## Screenshots
