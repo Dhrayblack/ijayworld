@@ -1,10 +1,12 @@
-# ijayworld
-IjayWorld 🌍
-Overview
 
-IjayWorld is a Flutter application designed to support community-driven and social-based features. It comes with a clean UI, smooth navigation, and a scalable code structure. The project is ideal for beginners learning Flutter or anyone building a modern mobile app.
 
-Features
+## Overview
+
+IjayWorld 🌍 is a Flutter application designed to support community-driven and social-based features. It comes with a clean UI, smooth navigation, and a scalable code structure. The project is ideal for beginners learning Flutter or anyone building a modern mobile app.
+
+___
+
+## Features
 
 🔹 Simple and clean UI
 
@@ -16,3 +18,5 @@ Features
 
 🔹 Works on both Android and iOS devices
 ---
+
+## Screenshots
