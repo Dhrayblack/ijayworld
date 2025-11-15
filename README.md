@@ -22,7 +22,7 @@ ___
 ---
 
 ## Screenshots
-<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2025-11-15 at 20 40 58" src="https://github.com/user-attachments/assets/a0427b6f-a005-4697-aed0-f6cb16da73c6" />
+<img width="300" height="300" alt="Simulator Screenshot - iPhone 17 Pro Max - 2025-11-15 at 20 40 58" src="https://github.com/user-attachments/assets/a0427b6f-a005-4697-aed0-f6cb16da73c6" />
 
 ---
 
