@@ -9,9 +9,15 @@ The app focuses on clean UI, smooth navigation, and scalable structure, making i
 
 # ✨ Features
 Clean and modern UI
+
 Login & authentication screens
+
 Drawer navigation menu
+
 Modular and reusable widgets
+
 Easy navigation between screens
+
 Ready for backend/API integration
+
 Cross-platform (Android & iOS)
