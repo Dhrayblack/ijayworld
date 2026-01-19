@@ -30,4 +30,5 @@ Cross-platform (Android & iOS)
 ```bash
 git clone https://github.com/Dhrayblack/ijayworld.git
 
-
+# 👤 Author
+Dhrayblack
