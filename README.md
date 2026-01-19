@@ -3,6 +3,5 @@
 
 ## IjayWorld 🌍
 
-📱 Overview
-IjayWorld is a Flutter-based mobile application built to support community, social, and e-commerce style features.
+📱**IjayWorld** is a Flutter-based mobile application built to support community, social, and e-commerce style features.
 The app focuses on clean UI, smooth navigation, and scalable structure, making it ideal for learning Flutter or expanding into a full production app.
