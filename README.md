@@ -6,7 +6,6 @@
 The app focuses on clean UI, smooth navigation, and scalable structure, making it ideal for learning Flutter or expanding into a full production app.
 
 ---
-
 # ✨ Features
 Clean and modern UI
 
@@ -22,15 +21,18 @@ Ready for backend/API integration
 
 Cross-platform (Android & iOS)
 
+---
 # 🖼️ Screenshots
 
+---
+# 👤 Author
+Dhrayblack
 
+---
 
 # 🚀 Getting Started
 ```bash
 git clone https://github.com/Dhrayblack/ijayworld.git
 
----
 
-# 👤 Author
-Dhrayblack
+
