@@ -25,5 +25,9 @@ Cross-platform (Android & iOS)
 # 🖼️ Screenshots
 
 
+
 # 🚀 Getting Started
+```bash
 git clone https://github.com/Dhrayblack/ijayworld.git
+
+
