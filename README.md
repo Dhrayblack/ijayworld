@@ -21,3 +21,19 @@ Easy navigation between screens
 Ready for backend/API integration
 
 Cross-platform (Android & iOS)
+
+# 🖼️ Screenshots
+
+Add your screenshots like this:
+
+assets/
+└── screenshots/
+    ├── home.png
+    ├── login.png
+    └── drawer.png
+
+Then reference them below:
+
+![Home Screen](assets/screenshots/home.png)
+![Login Screen](assets/screenshots/login.png)
+![Drawer Menu](assets/screenshots/drawer.png)
