@@ -27,16 +27,13 @@ The app focuses on clean UI, smooth navigation, and scalable structure, making i
 
 <img width="100" height="200" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-01-20 at 16 21 59" src="https://github.com/user-attachments/assets/ab5f1809-5f29-4634-9c59-f901ec78a776" />
 
-
 ---
 # 👤 Author
-Dhrayblack
+Damilare Adetunji
 
 ---
 
 # 🚀 Getting Started
 ```bash
 git clone https://github.com/Dhrayblack/ijayworld.git
-
-
 
