@@ -25,6 +25,8 @@ The app focuses on clean UI, smooth navigation, and scalable structure, making i
 
 <img width="100" height="200" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-01-20 at 16 21 26" src="https://github.com/user-attachments/assets/8ad05e49-2601-4caa-a158-f10506297314" />
 
+<img width="100" height="200" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-01-20 at 16 21 26" src="https://github.com/user-attachments/assets/05602672-2827-4ecb-b647-5e8701c58c57" />
+
 
 ---
 # 👤 Author
