@@ -23,7 +23,7 @@ Cross-platform (Android & iOS)
 
 ---
 # 🖼️ Screenshots
-<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-01-20 at 16 23 03" src="https://github.com/user-attachments/assets/3b643624-83c0-4271-935f-7a745be6cf3c" />
+<img width="300" height="300" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-01-20 at 16 23 03" src="https://github.com/user-attachments/assets/3b643624-83c0-4271-935f-7a745be6cf3c" />
 
 
 ---
